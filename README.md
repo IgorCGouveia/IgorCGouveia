@@ -16,7 +16,6 @@
 - 🎓 **UFPB:** 7º período de Engenharia de Computação.
 - 🔬 **Iniciação científica (PIBIC, 2025–2026):** pipeline de visão computacional para triagem automatizada de documentos, com detecção em YOLOv8 e classificação com ResNet50 por transfer learning. Chegou a 77,7% de acurácia no conjunto de teste (código privado).
 - ⚙️ **Backend:** construo APIs REST com TypeScript e Node.js, com foco em segurança, testes e documentação.
-- 🔎 Procurando **estágio em backend, engenharia de software ou IA/ML**, remoto ou híbrido em João Pessoa.
 
 ### 🛠️ Projetos
 
